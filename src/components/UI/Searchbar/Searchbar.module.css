@@ -1,0 +1,19 @@
+.searchbar {
+    display: flex;
+    border: 4px solid white;
+    height: 6%;
+    width: 55%;
+    position: absolute;
+}
+
+.searchbar label {
+    background-color: #3C4250;
+}
+
+.searchbar input {
+    width: 100%;
+}
+
+.searchbar p {
+    justify-content: start;
+}
