@@ -1,0 +1,20 @@
+.navbar {
+    padding-inline: 10%;
+    display: flex;
+    color:red;
+    width: 100%;
+    justify-content: space-between;
+    border: 3px solid #ff0000;
+}
+
+/* ul*/
+.navbarItems {
+    color:white;
+    list-style: none;
+    
+}
+
+.navbarItems li {
+    display: inline;
+    padding-left: 15px;
+}
