@@ -1,0 +1,15 @@
+.cardLecture {
+    position:  relative;
+    border: 3px solid white;
+    height:350px;
+    width: 280px;
+    border-radius: 6%;
+}
+
+.img {
+    #imageNews {
+        position: relative;
+        object-fit: contain;
+        height:  23px;
+    }
+}
