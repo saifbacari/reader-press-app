@@ -1,0 +1,39 @@
+.cardLecture {
+    position:  relative;
+    border: 3px solid white;
+    height:400px;
+    width: 280px;
+    border-radius: 6%;
+    flex-direction: column;
+    justify-content: flex-end;
+   
+}
+
+.contentImageLogo {
+    /* content à ajouter */
+    
+}
+
+.logoNews {
+    /* test a faire */
+   position: relative;
+   object-fit: contain;
+   height:  23px;
+   padding-left: 12px;
+   padding-top: 5px;
+}
+
+.imageNews {
+   width: 100%;
+   height: 100%;
+   border-radius: 6%;
+}
+
+
+.contentText {
+    padding-inline: 3%;
+}
+
+
+
+
