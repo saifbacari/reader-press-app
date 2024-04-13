@@ -1,0 +1,22 @@
+.gridLectures {
+    
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-inline: 5%
+}
+
+
+.gridLastLectures, .gridAddedLectures, .gridAddedLecturesToFavorites {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.titleLectures {
+    color: greenyellow;
+    padding-left: 4%;
+}
+

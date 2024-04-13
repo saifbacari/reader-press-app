@@ -1,12 +1,11 @@
 .about {
-    height: 790px;
-   
+    height: 100vh;
     justify-content: center;
     align-items: center;
     position: relative; /* pas sur de l'interet que ça a */
     background-image: url("../../assets/images/aboutBanner.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     width: 100%;
     display: flex;
     /* object fit  voir si changement interessant à appliquer*/
